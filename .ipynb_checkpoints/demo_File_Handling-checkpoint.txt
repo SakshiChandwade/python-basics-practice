@@ -1,0 +1,3 @@
+Hello World!
+Python file handling is straightforward.
+code by sakshi chandwade 
