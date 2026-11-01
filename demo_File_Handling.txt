@@ -1,2 +1,3 @@
 Hello World!
 Python file handling is straightforward.
+Adding a new line without deleting previous text in file handling a Appending Data.
